@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVtoJSON", "CSVtoJSON\CSVtoJSON.csproj", "{287B9D87-174E-4DAB-8AC4-5DD2398C7A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287B9D87-174E-4DAB-8AC4-5DD2398C7A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287B9D87-174E-4DAB-8AC4-5DD2398C7A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287B9D87-174E-4DAB-8AC4-5DD2398C7A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287B9D87-174E-4DAB-8AC4-5DD2398C7A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76910470-86D4-4918-B02D-6F0858178B1F}
+	EndGlobalSection
+EndGlobal
