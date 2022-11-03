@@ -16,3 +16,6 @@ This app run on C# and requires it to run. Although a published console app is p
 1. Clone the repository where project is [https://github.com/Aniyikaye-Alabi/HNGi9-GenerateNewCSV.git](https://github.com/Aniyikaye-Alabi/HNGi9-GenerateNewCSV.git).
 2. Open the solution (.sln) file located in root directory of the project folder.
 3. After the solution file opens, run the app, a console app will display guide to generate the Hashed CSV File.
+
+N.B. A sample file csv (NFTAll.csv) has already been provided to generate the Hash field in a new CSV File. The new generated CSV is in CSVtoJSON/bin/Debug/.net6 directory
+Although in the published console app, the new hashed generated csv file is found in the root folder.
